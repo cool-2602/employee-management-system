@@ -9,6 +9,7 @@ public class EmployeeManagementSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(EmployeeManagementSystemApplication.class, args);
         System.out.println("This is new Spring project through IntelliJ");
+        System.out.println("This is new Spring project through IntelliJ");
     }
 
 }
